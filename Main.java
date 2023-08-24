@@ -18,5 +18,22 @@
 //                               double length, double grossTons) {
     //do the calculation here
 // }
+// The signature of the method declared above is:
+
+// calculateAnswer(double, int, double, double)
+
+
+
 
 // public String madeFirstMethod(int param, String param, boolen param){}
+
+/* By convention, method names should be a verb in lowercase or a multi-word name that begins with a verb in lowercase, followed by adjectives, nouns, etc. In multi-word names, the first letter of each of the second and following words should be capitalized. Here are some examples:
+
+run
+runFast
+getBackground
+getFinalData
+compareTo
+setX
+isEmpty
+ */ 
