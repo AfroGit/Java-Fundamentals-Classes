@@ -37,3 +37,21 @@ compareTo
 setX
 isEmpty
  */ 
+
+
+/*In the Java programming language, you can use the same name for all the drawing methods but pass a different argument list to each method. Thus, the data drawing class might declare four methods named draw, each of which has a different parameter list. */ 
+// public class DataArtist {
+//     ...
+//     public void draw(String s) {
+//         ...
+//     }
+//     public void draw(int i) {
+//         ...
+//     }
+//     public void draw(double f) {
+//         ...
+//     }
+//     public void draw(int i, double f) {
+//         ...
+//     }
+// }
