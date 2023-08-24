@@ -19,4 +19,4 @@
     //do the calculation here
 // }
 
-public String madeFirstMethod(int param, String param, boolen param){}
+// public String madeFirstMethod(int param, String param, boolen param){}
